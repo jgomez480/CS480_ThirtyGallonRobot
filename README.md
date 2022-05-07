@@ -7,7 +7,7 @@ The purpose of our project was to create an autonomous movement and obstacle avo
 ![alt text](robot.jpg)
 
 
-The minimum viable product of this robot was to have it autonomously move through Northern Arizona Univesity's Engineer Building while avoiding obstacles. It needed to do this in the long hallway of the second floor of the building. When the robot reached one end of the hallway it would recognize it and turn around. Upon reaching the second end of the hallway or the starting position, the robot will stop and the program would end.
+The minimum viable product of this robot was to have it autonomously move through Northern Arizona University's Engineering Building while avoiding obstacles. It needed to do this in the long hallway of the second floor of the building. When the robot reached one end of the hallway it would recognize it and turn around. Upon reaching the second end of the hallway or the starting position, the robot will stop and the program would end.
 
 
 
