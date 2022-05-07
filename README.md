@@ -17,9 +17,13 @@ The minimum viable product of this robot was to have it autonomously move throug
 
 
 
+
+
 ![alt text](door.png)
 
 **South End of the Hallway, the Exit Door**
+
+
 
 
 To do this we utilized a few things:
